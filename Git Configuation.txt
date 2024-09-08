@@ -1,0 +1,6 @@
+[user]
+	name = Rockodrilo Rico
+	email = edgar.ricoromero@outlook.com
+[core]
+	editor = code --wait
+	autocrlf = true
